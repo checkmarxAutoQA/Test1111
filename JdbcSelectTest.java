@@ -22,5 +22,6 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
                "jdbc:mysql://localhost:3306/ebookshop?useSSL=false", "myuser", "xxxx");
          Statement stmt = conn.createStatement();
          ResultSet rset = stmt.executeQuery(strSelect);
+	   //dwhnhdklhjjesdkj
    }
 }
