@@ -28,7 +28,9 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
 	    //shjfoidyaoyhfueiwyui
 	    //shjfoidyaoyhfueiwyui
 	       //shjfoidyaoyhfueiwyui
-	  
+	    //shjfoidyaoyhfueiwyui
+	    //shjfoidyaoyhfueiwyui
+	    scalaClass.sql(strSelect);
    }
    
    public void sql(String strSelect) {
