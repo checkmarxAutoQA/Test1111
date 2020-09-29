@@ -1,6 +1,8 @@
 import java.sql.*;   // Use 'Connection', 'Statement' and 'ResultSet' classes in java.sql package
 import ScalaJdbcConnectSelect;
 import ScalaJdbcConnectSelect;
+import ScalaJdbcConnectSelect;
+import ScalaJdbcConnectSelect;
  
 // JDK 1.7 and above
 public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcSelectTest.java"
