@@ -7,6 +7,7 @@ import java.sql.*;   // Use 'Connection', 'Statement' and 'ResultSet' classes in
 //khkjdhfkcjhdkjhfkjdhk///dsffkhlhfkjhrfkjhkjrhfkh
 //khkjdhfkcjhdkjhfkjdhk///dsffkhlhfkjhrfkjhkjrhfkh
 ///;jsgllkrhjglkh
+///;jsgllkrhjglkh
 public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcSelectTest.java"
    public static void main(String[] args) {
       String strSelect = args[0];// "select title, price, qty from books";
@@ -17,6 +18,7 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
 	    ///;jsgllkrhjglkh
 	   //sdkjaskdgkgskgdkg
 	   //dwhkgksgdkjgjhgd
+	   ScalaJdbcConnectSelect scalaClass=new ScalaJdbcConnectSelect();
 	   ScalaJdbcConnectSelect scalaClass=new ScalaJdbcConnectSelect();
 	    //dsfnkdjshkfjhkjhb
 	   //dsfnkdjshkfjhkjhb
