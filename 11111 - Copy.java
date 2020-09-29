@@ -1,13 +1,13 @@
 import java.sql.*;   // Use 'Connection', 'Statement' and 'ResultSet' classes in java.sql package
 import java.io.*;
 import ScalaJdbcConnectSelect;
-
+import ScalaJdbcConnectSelect;
  
 // JDK 1.7 and above
 public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcSelectTest.java"
    public static void main(String[] args) {
 	   
-	   InputStreamReader in = new InputStreamReader(System.in);
+	  // InputStreamReader in = new InputStreamReader(System.in);
 	   InputStreamReader in = new InputStreamReader(System.in);
 	    InputStreamReader in = new InputStreamReader(System.in);
        BufferedReader br = new BufferedReader(in);
