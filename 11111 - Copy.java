@@ -15,6 +15,7 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
 	   String strSelect2 = br.readLine();
 
 	  sql(strSelect1);
+	   sql(strSelect1);
 	  sql1(strSelect1);
 	  sql2(strSelect2);
 	  sql3(strSelect2);
