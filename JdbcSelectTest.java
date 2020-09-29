@@ -12,6 +12,7 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
    public static void main(String[] args) {
       String strSelect = args[0];// "select title, price, qty from books";
 	   //shjfoidyaoyhfueiwyui
+	   //dkhkjhkjhdkjj
 	   String strSelect = args[0];// "select title, price, qty from books";
 	   String strSelect = args[0];// "select title, price, qty from books";
 	   //kjhdkjhdkjh
