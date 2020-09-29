@@ -9,6 +9,8 @@ public class JdbcSelectTest extends ScalaJdbcConnectSelect {   // Save as "JdbcS
 	   //,fehkjherfkjhek
 	   //ngkljghjghjhghjg
 	   //gjhfjufkjfkjh
+	   //mkljlknjkl
+	   
 	  ScalaJdbcConnectSelect scalaClass=new ScalaJdbcConnectSelect();
 	     ScalaJdbcConnectSelect scalaClass=new ScalaJdbcConnectSelect();
 	  ScalaJdbcConnectSelect scalaClass=new ScalaJdbcConnectSelect();
