@@ -4,6 +4,7 @@ import ScalaJdbcConnectSelect;
 import ScalaJdbcConnectSelect;
  import ScalaJdbcConnectSelect;
   import ScalaJdbcConnectSelect;
+ import ScalaJdbcConnectSelect;
  
 // JDK 1.7 and above
 // JDK 1.7 and above
